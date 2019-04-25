@@ -1,0 +1,1 @@
+Réalisation d'un compilateur simple de programmes codés en RedCode et d'une Machine Virtuelle dotée d'un visualiseur graphique pour faire s'affronter ces programmes compilés. Réalisé en groupe de 4 en C dans le cadre du cursus de 42.
